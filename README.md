@@ -1,0 +1,1 @@
+aws pinpoint javascript sdk sample
